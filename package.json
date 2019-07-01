@@ -1,0 +1,17 @@
+{
+  "name": "tarea06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.6.2",
+    "number": "0.0.1",
+    "to": "^0.2.9",
+    "words": "^0.1.3"
+  }
+}
